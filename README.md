@@ -14,7 +14,7 @@
 
 ### Duración: Una hora. Se deberá permanecer en el aula hasta terminado el exámen
 ### Estructura: 3 partes: Desarrollo conceptual (40%), Ejercicio numérico (20%), Tipo test (40%). 
-### Solo en el espacio dado para cada pregunta. Se tiene que entregar la totalidad de las hojas recibidas   
+### Solo responder en el espacio dado para cada pregunta. Se tiene que entregar la totalidad de las hojas recibidas. Se puede llevar calculadora.   
 
 ## Turno 09:00
 ### Primer apellido empezando con A hasta J incluído
