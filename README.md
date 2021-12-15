@@ -10,7 +10,7 @@
 
 **CA**: Aquest repositori conté tots els materials per a les classes de el curs Introducció a l'Economia de l'Grau de Estudis d’Àsia oriental a la Universitat Autònoma de Barcelona. Els continguts estan enterament en Castellà.
 
-# MENSAJE POR LOS ESTUDIANTES DE INTRODUCCIÓN A LA ECONOMÍA ACTUAL DEL GEAO - MIÉRCOLES 15 DE DICIEMBRE
+# MENSAJE MIÉRCOLES 15 DE DICIEMBRE
 
 La clase de Introducció a l'Economia del jueves día 16 de diciembre, que probablemente no se podrá realizar a causa de la huelga, se recuperará en enero de 2022.
 
