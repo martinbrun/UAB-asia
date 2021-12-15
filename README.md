@@ -10,8 +10,10 @@
 
 **CA**: Aquest repositori conté tots els materials per a les classes de el curs Introducció a l'Economia de l'Grau de Estudis d’Àsia oriental a la Universitat Autònoma de Barcelona. Els continguts estan enterament en Castellà.
 
-# MISSATGE PELS ESTUDIANTS D’INTRODUCCIÓ A L’ECONOMIA ACTUAL DEL GEAO - DIMECRES 15 DE DESEMBRE 
+# MENSAJE POR LOS ESTUDIANTES DE INTRODUCCIÓN A LA ECONOMÍA ACTUAL DEL GEAO - MIÉRCOLES 15 DE DICIEMBRE
 
-La classe d'Introducció a l'Economia del dijous dia 16 de desembre, que probablement no es podrà realitzar a causa de la vaga, es recuperarà al gener 2022. 
+La clase de Introducció a l'Economia del jueves día 16 de diciembre, que probablemente no se podrá realizar a causa de la huelga, se recuperará en enero de 2022.
 
-En la classe del proper dimarts 21 de desembre cal entregar la pràctica 1 en paper (l'antiga entrega 1 enviada a principi de curs que malauradament no s'ha pogut recuperar del campus virtual). Si no podeu assistir a classe, la podeu donar a un company pq me l'entregui. El proper gener es realitzaran tres classes d'introducció a l'economia amb el Prof. Oriol Roca en les dates 11, 13 i 18 de gener, en el mateix horari i aula que habitualment (es recuperan els 2 dies d'examen i el dia de la vaga i es treballarà el tema 10 del programa). 
+En la clase del próximo martes 21 de diciembre se debe entregar la práctica 1 en papel (la antigua entrega 1 enviada a principio de curso que desgraciadamente no se ha podido recuperar del Campus Virtual). Si no puede asistir a clase, la puede dar a un compañero para que la entregue. 
+
+El próximo enero se realizarán tres clases de Introducció a l'Economia con el Prof. Oriol Roca en las fechas 11, 13 y 18 de enero, en el mismo horario y aula que habitualmente (se recuperan los 2 días de examen y el día de la huelga y se trabajará el tema 10 del programa).
