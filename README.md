@@ -13,4 +13,4 @@
 # CALIFICACIONES EXÁMEN 
 
 ### Están colgadas las calificaciones del exámen del 14/12/2021
-### Revisión de exámenes: Lunes 20/12/2021 a las 13:00. Coordinar en martin.brun@uab.cat 
+### Revisión de exámenes: Lunes 20/12/2021 a las 13:00. Coordinar en martin.brun@uab.cat
